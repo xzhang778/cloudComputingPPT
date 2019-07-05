@@ -1,2 +1,2 @@
-# cloudComputingStudy
-My cloud computing school project and PPT
+# cloudComputingPPT
+My cloud computing PPT which is used to educate the public.
